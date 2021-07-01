@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 18.0.2 - 2021-06-30
+
+- Add oAuth to Shopping API
+
 ## 18.0.0 - 2018-06-28
 
 ### Features
